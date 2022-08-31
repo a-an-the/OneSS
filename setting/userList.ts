@@ -1,8 +1,7 @@
 const userList: userListType = {
-    users: ["share@dzaaaaaa.com", "oness@dzaaaaaa.com"],
+    users: ["ykl@sckl.eu.org",],
     nickname: {
-        "share@dzaaaaaa.com": '🤝 分享功能测试',
-        "oness@dzaaaaaa.com": '🌟 ☁OneSS † 开发测试用 †',
+        "ykl@sckl.eu.org": '🤝 分享功能测试';
     }
 }
 export default userList;
